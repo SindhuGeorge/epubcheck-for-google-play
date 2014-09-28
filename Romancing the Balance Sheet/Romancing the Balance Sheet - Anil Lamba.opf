@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dfa27e5f-f777-4cb4-9231-8e979ca963b9</dc:identifier>
+        <dc:title>Romancing the Balance Sheet</dc:title>
+        <dc:creator opf:file-as="Lamba, Anil" opf:role="aut">Anil Lamba</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.56) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-08-18T02:35:57+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;In this book you will learn that there is no such thing as a  non-Finance person. It's a misconception that &lt;b&gt;Finance Management&lt;/b&gt; happens in the Finance Department alone. In fact, it is happening right through the organization.   There is a direct relationship between every action you take and the bottom line of your organization. This book will help you to discover and strengthen that relationship. Understand here what &lt;b&gt;Profit&lt;/b&gt; really means. If Balance Sheets mystify you – these lucid truths will give you clarity. Learn the rules of &lt;b&gt;Good Financial Management&lt;/b&gt; which will keep you secure. Make the most efficient use of your &lt;b&gt;Working Capital&lt;/b&gt;, and understand how an increase in Sales actually impacts your Profit. Learn also the simple secrets of &lt;b&gt;Marginal Costing&lt;/b&gt;, &lt;b&gt;Leverage&lt;/b&gt; and &lt;b&gt;Funds Flow&lt;/b&gt;. Written in a simple and easy-to-read style, you will find yourself relaxing and enjoying this book as you become smarter at managing finance.&lt;/p&gt;</dc:description>
+        <dc:publisher>TV18 Broadcast Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789384061180</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>leverage analysis</dc:subject>
+        <dc:subject>marginal costing</dc:subject>
+        <dc:subject>finance</dc:subject>
+        <dc:subject>finance management</dc:subject>
+        <dc:subject>balance sheet</dc:subject>
+        <dc:subject>good finance management</dc:subject>
+        <dc:subject>financial role</dc:subject>
+        <dc:subject>understanding finance</dc:subject>
+        <dc:subject>working capital</dc:subject>
+        <dc:subject>financial health</dc:subject>
+        <dc:subject>break-even point</dc:subject>
+        <dc:subject>romancing the balance sheet</dc:subject>
+        <meta content="{&quot;Anil Lamba&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Finance Management" name="calibre:series"/>
+        <meta content="1.04" name="calibre:series_index"/>
+        <meta content="10.0" name="calibre:rating"/>
+        <meta content="2014-08-08T02:45:43+00:00" name="calibre:timestamp"/>
+        <meta content="Romancing the Balance Sheet" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Romancing the Balance Sheet - Anil Lamba.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
